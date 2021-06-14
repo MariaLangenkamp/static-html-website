@@ -1,2 +1,2 @@
 # static-html-website
-# Try out project
+Try out project
